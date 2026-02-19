@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Anywhere For You",
+  "base_artist": "John Martin",
+  "createdAt": "2026-02-19T10:29:49.836259Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Anywhere For You",
+      "artist": "John Martin",
+      "has_synced": true,
+      "path": "select/01_Anywhere_For_You_John_Martin.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Anywhere for You",
+      "artist": "Backstreet Boys",
+      "has_synced": true,
+      "path": "select/02_Anywhere_for_You_Backstreet_Boys.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Anywhere for You",
+      "artist": "Backstreet Boys",
+      "has_synced": true,
+      "path": "select/03_Anywhere_for_You_Backstreet_Boys.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Anywhere For You",
+      "artist": "John Martin",
+      "has_synced": true,
+      "path": "select/04_Anywhere_For_You_John_Martin.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Anywhere For You",
+      "artist": "John Martin",
+      "has_synced": true,
+      "path": "select/05_Anywhere_For_You_John_Martin.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Anywhere For You (Tiësto vs. Dzeko & Torres / Radio Edit)",
+      "artist": "John Martin",
+      "has_synced": true,
+      "path": "select/06_Anywhere_For_You_(Tiësto_vs._Dzeko_&_Torres___Radio_Edit)_John_Martin.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Anywhere For You (Instrumental)",
+      "artist": "John Martin",
+      "has_synced": false,
+      "path": "select/07_Anywhere_For_You_(Instrumental)_John_Martin.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Anywhere for You",
+      "artist": "John Martin",
+      "has_synced": true,
+      "path": "select/08_Anywhere_for_You_John_Martin.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Anywhere For You",
+      "artist": "John Martin",
+      "has_synced": false,
+      "path": "select/pl_01_Anywhere_For_You_John_Martin.txt"
+    }
+  ]
+}
